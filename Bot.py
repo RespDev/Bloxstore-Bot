@@ -128,4 +128,4 @@ async def ping(interaction : Interaction):
 async def whoareyou(interaction : Interaction):
     await interaction.response.send_message(f"{interaction.user.mention} My name is Bloxstore Bot and I love to shop!")
 
-bot.run('MTA1NzQ0NzQzNjc0Mzg4NDgyMA.GVNqNk.7QJ4Ucsw8236A4B1666T7qyCc20Utrh6NBoz0Q')
+bot.run('Sorry lol')
